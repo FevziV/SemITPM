@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Apple Inc.",
+      "symbol": "AAPL"
+    },
+    {
+      "name": "Microsoft Corporation",
+      "symbol": "MSFT"
+    },
+    {
+      "name": "Alphabet Inc.",
+      "symbol": "GOOGL"
+    },
+    {
+      "name": "Amazon.com Inc.",
+      "symbol": "AMZN"
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "symbol": "NVDA"
+    },
+    {
+      "name": "Meta Platforms Inc.",
+      "symbol": "META"
+    },
+    {
+      "name": "Tesla Inc.",
+      "symbol": "TSLA"
+    },
+    {
+      "name": "Adobe Inc.",
+      "symbol": "ADBE"
+    },
+    {
+      "name": "Netflix Inc.",
+      "symbol": "NFLX"
+    },
+    {
+      "name": "Intel Corporation",
+      "symbol": "INTC"
+    },
+    {
+      "name": "Cisco Systems Inc.",
+      "symbol": "CSCO"
+    },
+    {
+      "name": "PayPal Holdings Inc.",
+      "symbol": "PYPL"
+    },
+    {
+      "name": "Advanced Micro Devices Inc.",
+      "symbol": "AMD"
+    },
+    {
+      "name": "Qualcomm Inc.",
+      "symbol": "QCOM"
+    },
+    {
+      "name": "Starbucks Corporation",
+      "symbol": "SBUX"
+    },
+    {
+      "name": "Texas Instruments Inc.",
+      "symbol": "TXN"
+    },
+    {
+      "name": "Zoom Video Communications Inc.",
+      "symbol": "ZM"
+    },
+    {
+      "name": "DocuSign Inc.",
+      "symbol": "DOCU"
+    },
+    {
+      "name": "Moderna Inc.",
+      "symbol": "MRNA"
+    },
+    {
+      "name": "Airbnb Inc.",
+      "symbol": "ABNB"
+    },
+    {
+      "name": "Uber Technologies Inc.",
+      "symbol": "UBER"
+    },
+    {
+      "name": "Twitter Inc.",
+      "symbol": "TWTR"
+    },
+    {
+      "name": "Spotify Technology SA",
+      "symbol": "SPOT"
+    },
+    {
+      "name": "Block Inc.",
+      "symbol": "SQ"
+    },
+    {
+      "name": "Coinbase Global Inc.",
+      "symbol": "COIN"
+    }
+  ]

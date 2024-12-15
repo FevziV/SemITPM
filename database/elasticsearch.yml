@@ -1,0 +1,21 @@
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
+
+# Path settings
+path:
+  data: /usr/share/elasticsearch/data
+  logs: /usr/share/elasticsearch/logs
+
+# Memory settings
+bootstrap.memory_lock: true
+
+# Network settings
+http.port: 9200
+transport.port: 9300
+
+# Enable cross-origin resource sharing
+http.cors.enabled: true
+http.cors.allow-origin: "*"
+
+# Discovery settings for single node
+discovery.type: single-node
