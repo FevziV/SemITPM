@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: frontend
 spec:
+  replicas: 5
   selector:
     matchLabels:
       app: frontend
