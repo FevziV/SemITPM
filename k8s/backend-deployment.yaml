@@ -20,9 +20,6 @@ spec:
         envFrom:
         - configMapRef:
             name: backend-config
-        env:
-        - name: SPRING_PROFILES_ACTIVE  
-          value: k8s
 ---
 apiVersion: v1
 kind: Service
