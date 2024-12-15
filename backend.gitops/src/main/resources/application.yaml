@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: backend.gitops
-  elasticsearch:
-    uris: http://${ELASTICSEARCH_HOST}:${ELASTICSEARCH_PORT}
