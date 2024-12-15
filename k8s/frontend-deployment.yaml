@@ -1,10 +1,8 @@
-# k8s/frontend-deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: frontend
 spec:
-  replicas: 1
   selector:
     matchLabels:
       app: frontend
@@ -15,7 +13,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: feivel123/frontend:latest  # Ihr Docker Hub Image
+        image: feivel123/frontend:latest
         ports:
         - containerPort: 80
 ---
