@@ -17,6 +17,9 @@ spec:
         image: feivel123/backend:latest 
         ports:
         - containerPort: 8080
+        env:
+        - name: SPRING_PROFILES_ACTIVE
+          value: k8s
         envFrom:
         - configMapRef:
             name: backend-config
